@@ -20,5 +20,5 @@ A lightweight, HTML-based AI chatbot powered by DeepSeek API via OpenRouter. Des
 ## 🛡 License
 MIT License — free to use, modify, and distribute.
 
-## 💬 Roman Urdu Notes (for indian/pakistani friends)
+## 💬 Roman Urdu Notes (for Indian/Pakistani friends)
 Ye chatbot basic hai — sirf HTML/Javascript ka use kiya gaya hai. Offline version aur local memory ka kaam chal raha hai. Code open-source hai, use karo ya modify karo — dil khol ke!
